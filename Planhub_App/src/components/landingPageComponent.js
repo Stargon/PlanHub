@@ -79,10 +79,10 @@ class HelpPage extends Component {
             <Card>
               <Card.Content>
                 <Image size="large" src="/images/minhquan.jpeg" />
-                <Card.Header>Minhquan Tran</Card.Header>
+                <Card.Header>MinhQuan Tran</Card.Header>
                 <Card.Meta>minhquan.tran@wsu.edu</Card.Meta>
                 <Card.Description>
-                  Minhquan is a Computer Science junior at Washington State
+                  MinhQuan is a Computer Science junior at Washington State
                   University Vancouver. Feel free to contact him via email with
                   any question regarding PlanHub.
                 </Card.Description>
