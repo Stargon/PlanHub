@@ -5,7 +5,7 @@ Authors:
 * Jack Dwayne Montana Jones
 * Noah Jackson
   
-## Current Status: **Implementation and Testing Phase**
+## Current Status: Completed
 
 ## Completed:
 * Main Planner Interface Using React
