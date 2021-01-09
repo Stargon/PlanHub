@@ -18,7 +18,7 @@ if x.lower() == 'y':
     mongo_start = react_start + "/src/backend"
     # Run mongodb
     os.chdir(mongo_start)
-    sp.Popen(["nodemon", "server.js"])
+    sp.Popen(["node", "server.js"])
     # Run React App
     os.chdir(react_start)
     react = sp.run(["npm", "start"]) 
