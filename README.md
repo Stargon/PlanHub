@@ -61,9 +61,11 @@ cd src/backend
 npm install
 ```
 
-### 3. Running the Web App
+### 3. Running the Web App (Dev Build)
 Run the run.py python script in the main PlanHub directory. The command is the following:
 
 ```
 python3 run.py
 ```
+Run the script after all the node_modules dependencies are installed. The script can be ran as many
+times as the web app needs to be built.
