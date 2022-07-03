@@ -8,12 +8,4 @@ updates:
       # Prefix all commit messages with "npm"
       prefix: "npm"
       
-  - package-ecosystem: "yarn"
-    directory: "/"
-    schedule:
-      interval: "daily"
-    commit-message:
-      prefix: "yarn"
- 
  # Refer to https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
- 
