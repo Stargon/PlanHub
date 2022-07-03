@@ -6,6 +6,7 @@ Authors:
 * Noah Jackson
   
 ## Current Status: Completed
+The project is no longer maintained as of 7/2/2022. 
 
 ## Completed:
 * Main Planner Interface Using React
